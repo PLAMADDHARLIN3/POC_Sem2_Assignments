@@ -6,7 +6,6 @@ try:
 except ValueError:
     print("integer was not given")
 
-
 try:
     value = number1/number2
     print('The answer is', value) 
