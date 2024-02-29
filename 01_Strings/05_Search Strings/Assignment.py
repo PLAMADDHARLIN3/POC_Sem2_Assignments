@@ -1,4 +1,4 @@
-text = input("Enter some text") 
+text = input("Enter some text: ") 
 
 result = text.find("the")
 
