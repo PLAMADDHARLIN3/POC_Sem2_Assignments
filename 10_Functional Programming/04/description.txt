@@ -1,1 +1,0 @@
-Write a program that write's three sentences to a file
